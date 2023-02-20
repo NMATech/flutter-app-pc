@@ -1,16 +1,16 @@
-# first_lesson
+# NAMA PROJECT
+Aplikasi hasil belajar flutter
 
-A new Flutter project.
+# TANGGAL MULAI
+20 FEBRUARI 2023
 
-## Getting Started
+# DESKRIPSI
+Aplikasi ini dibuat oleh saya pribadi. Adapun tujuan dari hal tersebut hanya semata mata untuk dokumentasi hasil belajar saya di flutter
 
-This project is a starting point for a Flutter application.
+# Jenis Project 
+Flutter/Aplikasi/Android
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Anggota 
+| Nama | Posisi | URL Profile |
+| ------ | ------ | ------ |
+| Nadindra Maulana Aziz | developer | https://gitlab.com/NMATech |
